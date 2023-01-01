@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import UseRef_2 from "./useRef/useRef_2";
+import App from "./useContext/App";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<UseRef_2 />);
+root.render(<App />);
